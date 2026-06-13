@@ -1,3 +1,4 @@
 "baobao" 
 "hoc git" 
 "hoc commit" 
+"hoc r" 
