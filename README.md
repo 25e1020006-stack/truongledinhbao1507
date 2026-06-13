@@ -59,7 +59,7 @@ thư mục để đưa ra gợi ý chính xác hơn.
 
 Quy trình phối hợp  
 
-Bước 1 (Prompt): Yêu cầu AI viết hoặc sửa code theo từng mảng nhỏ, không đưa ra yêu cầu quá phức tạp gây xáo ytoonj 
+Bước 1 (Prompt): Yêu cầu AI viết hoặc sửa code theo từng mảng nhỏ, không đưa ra yêu cầu quá phức tạp gây xáo trộn
 
 Bước 2 (Review): Sử dụng lệnh git diff hoặc công cụ Source Control để so sánh, rà soát kỹ lưỡng phần code do AI sinh ra trước khi chấp nhận.
 
