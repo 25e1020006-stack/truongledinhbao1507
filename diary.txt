@@ -2,3 +2,4 @@
 "hoc git" 
 "hoc commit" 
 "hoc r" 
+"Learn merge" 
