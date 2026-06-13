@@ -4,3 +4,4 @@
 "hoc r" 
 "Learn merge" 
 "hoc pull request" 
+"Learn conflict" 
