@@ -28,7 +28,7 @@ feature-profile: Nhánh tính năng dùng để thực hành quy trình Pull Req
 feature-login: Nhánh tính năng thực hành xây dựng chức năng đăng nhập và đẩy lên remote.
  
 
-3.2 . Số lượng commit :18 Toàn bộ tiến trình commit từ điểm khởi tạo ban đầu (Initial commit) cho đến các bước xử lý nâng cao đều được lưu vao
+3.2 . Số lượng commit :18 Toàn bộ tiến trình commit từ điểm khởi tạo ban đầu (Initial commit) cho đến các bước xử lý nâng cao đều được lưu vào
  
 3.3. Quản lý Pull Requests & Gộp mã nguồn (Merge)
 
