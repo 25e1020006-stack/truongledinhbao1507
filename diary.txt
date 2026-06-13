@@ -5,3 +5,4 @@
 "Learn merge" 
 "hoc pull request" 
 "Learn conflict" 
+"Learn revert" 
