@@ -50,17 +50,16 @@ Nhằm làm quen với việc xử lý lỗi an toàn, em đã thực hành tạ
 sau đó sử dụng lệnh git revert ngay trên Terminal để tạo ra một commit mới (5bd94c8 - "Tao commit moi de thuc hanh revert").Hành động 
 này giúp hủy bỏ nội dung thử nghiệm một cách an toàn mà vẫn giữ toàn vẹn lịch sử hệ thống.
  
-4 Tôi sẽ dùng Git như thế nào khi Vibe Code với AI?Khi bước vào giai đoạn Vibe Code với AI (sử dụng GitHub Copilot, Cursor, ...), AI có
+4 Tôi sẽ dùng Git như thế nào khi Vibe Code với AI?
 
-tốc độ sinh mã nguồn rất nhanh. Để kiểm soát dự án không bị mất kiểm soát, em áp dụng quy trình Git theo 3 nguyên tắc
+Khi bước vào giai đoạn Vibe Code với AI (sử dụng GitHub Copilot, Cursor, ...), AI có tốc độ sinh mã nguồn rất nhanh. Để kiểm soát dự án không bị mất kiểm soát, em áp dụng quy trình Git theo 3 tiêu chí :
 
-Chuẩn bị (Setup) & Cung cấp ngữ cảnh: Khởi tạo Kho lưu trữ gọn gàng. Kết nối Git với không gian làm việc giúp AI hiểu toàn bộ cấu trúc 
-
+Chuẩn bị (Setup) & cung cấp ngữ cảnh: Khởi tạo kho lưu trữ gọn gàng. Kết nối Git với không gian làm việc giúp AI hiểu toàn bộ cấu trúc 
 thư mục để đưa ra gợi ý chính xác hơn.
 
 Quy trình phối hợp  
 
-Bước 1 (Prompt): Yêu cầu AI viết hoặc sửa code theo từng tính năng nhỏ (gói gọn), tránh đưa yêu cầu quá lớn làm xáo trộn nhiều file cùng lúc.
+Bước 1 (Prompt): Yêu cầu AI viết hoặc sửa code theo từng mảng nhỏ, không đưa ra yêu cầu quá phức tạp gây xáo ytoonj 
 
 Bước 2 (Review): Sử dụng lệnh git diff hoặc công cụ Source Control để so sánh, rà soát kỹ lưỡng phần code do AI sinh ra trước khi chấp nhận.
 
