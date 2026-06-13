@@ -8,14 +8,14 @@ Mã sinh viên: 25E1020006
  
 Tên thư mục cục bộ (Repository): truongledinhbao1507
  
-2 Quá trình học tập
+2  Quá trình học tập 
  
 Quá trình học tập được chia làm 2 giai đoạn chính dựa theo tài liệu Microsoft Learn:
  
 Giai đoạn 1 : Tiếp xúc các khái niệm cơ bảncủa Git bao gồm quản lý mã nguồn cục bộ, tìm hiểu cách hoạt động của mô hình GitHub Flow (Branching, Committing, Pull Request),quản lý công việc bằng GitHub Projects và định dạng văn bản Markdown.
  
 Giai đoạn 2 : Học cách quản lý, phân quyền và bảo mật dự án, thực hành giải quyết xung đột mã nguồn trực tiếp (Conflict Resolution), quản lý lịch sử commit và thực hiện hoàn tác an toàn (Revert/Rollback).
-3  Quy trình làm bài
+3  Nhật ký thực hành
  
 3.1. Hệ thống Nhánh (Branches)Dựa trên lịch sử log, hệ thống ghi nhận em đã khởi tạo và điều phối công việc thành công trên các nhánh chính sau:
 
