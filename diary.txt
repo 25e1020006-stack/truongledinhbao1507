@@ -3,3 +3,4 @@
 "hoc commit" 
 "hoc r" 
 "Learn merge" 
+"hoc pull request" 
