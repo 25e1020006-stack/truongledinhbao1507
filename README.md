@@ -36,13 +36,13 @@ Pull Request #1: Hợp nhất thành công nhánh feature-login vào hệ thốn
 
 Pull Request #2: Hợp nhất thành công nhánh feature-profile vào nhánh chính (Commit hash: cccadad).
  
-3.4. Xử lý Xung đột (Conflict Resolution)
+3.4. Xử lý Xung đột (Conflict )
 
 Tình huống: Khi thực hiện gộp nhánh conflict-test vào nhánh main, hệ thống phát hiện xung đột do cả hai nhánh cùng chỉnh sửa nội dung 
 trong tệp README.md (Commit 084034e trên nhánh phụ và 224c6cd trên nhánh main).
 
 Cách khắc phục : Em đã tiến hành mở tệp README.md trên trình soạn thảo, giải quyết xung đột thủ công bằng cách xóa bỏ các thẻ đánh dấu 
-(<<<<<<<, =======, >>>>>>>), đồng thời đồng nhất nội dung và thực hiện commit hoàn thành việc fix conflict (Commit hash: a03d331).
+(<<<<<<<, =======, >>>>>>>), đồng thời đồng nhất nội dung và thực hiện commit hoàn thành việc fix conflict .
  
 3.5. Thực hành Hoàn tác (Revert / Rollback)
 
